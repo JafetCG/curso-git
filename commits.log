@@ -1,0 +1,98 @@
+commit 2be68d15aa1abdea71b08655640a9c756efe9bb4
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Tue Oct 4 18:47:15 2022 -0400
+
+    agregando dos parrafos
+
+commit a30345c15d10c449ccd3a1a47572115621ab1548
+Merge: 57f50ee c5841f0
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Tue Oct 4 18:45:19 2022 -0400
+
+    resolviendo conflicto de fechas de año y estaciones
+
+commit 57f50eef7535d36eb57985221b3e41da10163a75
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Tue Oct 4 18:29:16 2022 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit c5841f0bdde060a7e57864ff081f1879a81f5f15
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Tue Oct 4 18:29:16 2022 -0400
+
+    agregando estaciones del año
+
+commit 794329dfb2203dca10e03a250b9d1cb292292799
+Merge: f6d5f99 7129b1f
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 15:37:18 2022 -0400
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 7129b1ffa2785233167ed9817e8bdc3040cea929
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 15:30:38 2022 -0400
+
+    agergando index.js al index.html
+
+commit f6d5f994721172a1cf197af9dc60abd38ae49207
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 15:28:55 2022 -0400
+
+    agregando style.css al index.html
+
+commit dae7b9808d0db9e284153d46dd818121d5682b13
+Merge: a2a973c 92186a4
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 15:15:30 2022 -0400
+
+    Merge branch 'js'
+
+commit 92186a4126ab7d6bdea692e7838360ae9f0f0999
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 14:51:42 2022 -0400
+
+    creando index js
+
+commit a2a973cb2d18b67a50b2f100ee593ded8b07d64a
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 14:47:00 2022 -0400
+
+    creando style .css
+
+commit 13e88d93b52a829f39ef08b9c32c9d97501872c7
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 14:40:47 2022 -0400
+
+    Creando archivo index.html
+
+commit 7f716298f0bc3cdf5f887fe536b90667a1704ab5
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 14:23:01 2022 -0400
+
+    ignorar archivos .exe
+
+commit 8cdce68d794d4e537443109c33c8af321868d088
+Author: Jafet <45726709+JafetCG@users.noreply.github.com>
+Date:   Mon Oct 3 12:07:20 2022 -0400
+
+    Creando licencia del repositorio
+
+commit d64603257a437de2aa95406a9480426949d62ea1
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 12:01:00 2022 -0400
+
+    agregando mas contenido al readme
+
+commit f1e9896bf37147b98e625d08f9352dfe2f0ea27d
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 11:37:08 2022 -0400
+
+    agregando contenido inicial al README
+
+commit f38e931d9ef483862a72b48968ef596c33683fb0
+Author: Jafet Crespo <jafetcrespo@gmail.com>
+Date:   Mon Oct 3 11:31:40 2022 -0400
+
+    Primer commit
